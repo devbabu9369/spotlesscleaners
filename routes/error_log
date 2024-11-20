@@ -1,0 +1,52 @@
+[24-Jul-2024 19:47:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home5/vipuls456/cstation.vipuls.in/routes/web.php:38
+Stack trace:
+#0 {main}
+  thrown in /home5/vipuls456/cstation.vipuls.in/routes/web.php on line 38
+[24-Jul-2024 20:46:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home5/vipuls456/cstation.vipuls.in/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home5/vipuls456/cstation.vipuls.in/routes/channels.php on line 16
+[24-Jul-2024 20:46:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home5/vipuls456/cstation.vipuls.in/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home5/vipuls456/cstation.vipuls.in/routes/api.php on line 17
+[24-Jul-2024 20:46:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home5/vipuls456/cstation.vipuls.in/routes/web.php:38
+Stack trace:
+#0 {main}
+  thrown in /home5/vipuls456/cstation.vipuls.in/routes/web.php on line 38
+[24-Jul-2024 20:46:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home5/vipuls456/cstation.vipuls.in/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home5/vipuls456/cstation.vipuls.in/routes/console.php on line 17
+[24-Jul-2024 20:46:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home5/vipuls456/cstation.vipuls.in/routes/web.php:38
+Stack trace:
+#0 {main}
+  thrown in /home5/vipuls456/cstation.vipuls.in/routes/web.php on line 38
+[24-Jul-2024 20:46:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home5/vipuls456/cstation.vipuls.in/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home5/vipuls456/cstation.vipuls.in/routes/channels.php on line 16
+[24-Jul-2024 20:46:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home5/vipuls456/cstation.vipuls.in/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home5/vipuls456/cstation.vipuls.in/routes/console.php on line 17
+[24-Jul-2024 20:46:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home5/vipuls456/cstation.vipuls.in/routes/web.php:38
+Stack trace:
+#0 {main}
+  thrown in /home5/vipuls456/cstation.vipuls.in/routes/web.php on line 38
+[24-Jul-2024 20:46:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home5/vipuls456/cstation.vipuls.in/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home5/vipuls456/cstation.vipuls.in/routes/channels.php on line 16
+[24-Jul-2024 20:46:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home5/vipuls456/cstation.vipuls.in/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home5/vipuls456/cstation.vipuls.in/routes/console.php on line 17
+[24-Jul-2024 20:46:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home5/vipuls456/cstation.vipuls.in/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home5/vipuls456/cstation.vipuls.in/routes/api.php on line 17
+[24-Jul-2024 20:47:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home5/vipuls456/cstation.vipuls.in/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home5/vipuls456/cstation.vipuls.in/routes/channels.php on line 16
